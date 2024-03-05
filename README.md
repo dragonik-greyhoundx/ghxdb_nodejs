@@ -11,6 +11,7 @@ This project just started and actually working on, based on a personal project t
 The data locator is similar to an id but have properties
 
 | index | Description |
+| --- | --- |
 | x | Similar to tables in SQL, it's the main property of the data OR the main property while searching specified datas |
 | y | It's a sub-main property or a required property of the data OR the second property while searching specified datas |
 | z | It's the "id" of the data |
