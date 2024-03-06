@@ -3,8 +3,8 @@
 
 A database concept based on a x;y;z id data to make a different logic of storage and make three dimentional data visualization.
 
-[!WARNING]
-This project just started and actually working on, based on a personal project to make locals databases easier to setup on small and personnal projects. If you are interested by the project, feel free to contact me on discord ( .dragonik ) or by mail ( guillaume.douchement@gmail.com )
+> [!WARNING]
+> This project just started and actually working on, based on a personal project to make locals databases easier to setup on small and personnal projects. If you are interested by the project, feel free to contact me on discord ( .dragonik ) or by mail ( guillaume.douchement@gmail.com )
 
 ## Concept of GHXDB
 ### Data "locator"
